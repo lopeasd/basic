@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68dd748e-a58c-437b-841f-39fd81a22651" name="Default" comment="基础练习代码第一次提交" />
+    <list default="true" id="68dd748e-a58c-437b-841f-39fd81a22651" name="Default" comment="基础练习代码第一次提交">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6384c4e7-3031-4f13-8c70-5c5db476ebbb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6384c4e7-3031-4f13-8c70-5c5db476ebbb/storage_v2/_src_/schema/mybatis.03UUWg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6384c4e7-3031-4f13-8c70-5c5db476ebbb/storage_v2/_src_/schema/mybatis.03UUWg.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/AbInter/MyAbstract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/AbInter/MyInter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/AbInter/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/annotation/DemoAnno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/collection/ArraysTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/day05/MyGenericity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/day05/TestAbstract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/day05/TestInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/inner/MemberInner$demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/inner/MemberInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/inner/PartInner$1Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/inner/PartInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/inner/StaticInner$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/inner/StaticInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/keyword/FinalExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/lesson01/MyArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/lesson01/Review.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/lesson02/MyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/lesson02/MyLinkedList2$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/lesson02/MyLinkedList2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/lesson02/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/lesson02/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/lesson03/MyArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/mstake/ThreeSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/mysql/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/mysql/sql说明.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/reflection/Entity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/reflection/ObjectExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/thread/MyRunnableImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/thread/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/thread/RunnableImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/com/learn/thread/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basic/jdbc.properties" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,23 +71,7 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="mybatis" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="mybatis" type="feb32156:DbDataSourceImpl" />
-        <item name="mybatis: schema" type="c314c289:MysqlImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="mybatis" type="feb32156:DbDataSourceImpl" />
-        <item name="mybatis: schema" type="c314c289:MysqlImplModel$Schema" />
-        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="DefaultGradleProjectSettings">
@@ -57,7 +81,26 @@
     <favorites_list name="basic" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/learn/inner/PartInner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/learn/inner/StaticInner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="19" selection-start-line="19" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -139,6 +182,7 @@
         <option value="$PROJECT_DIR$/src/com/learn/reflection/ObjectExample.java" />
         <option value="$PROJECT_DIR$/src/com/learn/AbInter/MyAbstract.java" />
         <option value="$PROJECT_DIR$/src/com/learn/AbInter/MyInter.java" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
       </list>
     </option>
   </component>
@@ -149,10 +193,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1175" />
-    <option name="height" value="529" />
+    <option name="x" value="-16" />
+    <option name="y" value="316" />
+    <option name="width" value="1346" />
+    <option name="height" value="509" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -172,6 +216,11 @@
             <path>
               <item name="basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -179,6 +228,13 @@
               <item name="basic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="inner" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="basic" type="b2602c69:ProjectViewProjectNode" />
@@ -202,13 +258,13 @@
     <property name="create.test.in.the.same.root" value="true" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetCode" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -234,7 +290,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ObjectExample">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration name="ArraysTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.learn.collection.ArraysTest" />
       <module name="basic" />
@@ -349,11 +405,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.ObjectExample" />
         <item itemvalue="Application.FinalExample" />
         <item itemvalue="Application.MyInter" />
         <item itemvalue="Application.ArraysTest" />
-        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -402,7 +458,7 @@
       <workItem from="1562896538452" duration="2030000" />
       <workItem from="1562977305351" duration="4756000" />
       <workItem from="1562993198346" duration="15863000" />
-      <workItem from="1563072366136" duration="3445000" />
+      <workItem from="1563072366136" duration="4954000" />
     </task>
     <task id="LOCAL-00001" summary="基础练习代码第一次提交">
       <created>1563100010828</created>
@@ -411,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563100010828</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="基础练习代码第一次提交">
+      <created>1563100622547</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563100622547</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -426,7 +489,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158781000" />
+    <option name="totallyTimeSpent" value="160290000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -439,6 +502,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49872124" visible="true" weight="0.19364598" />
       <window_info id="Image Layers" order="1" />
@@ -457,8 +521,8 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49924356" weight="0.62818336" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5030257" side_tool="true" weight="0.2782324" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Database Console" order="12" weight="0.32874355" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.3295082" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.32786885" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3290469" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24886535" />
@@ -472,7 +536,7 @@
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="right" id="leetcode" order="10" side_tool="true" weight="0.2091603" />
       <window_info anchor="right" id="Structure" order="11" side_tool="true" weight="0.18473282" />
-      <window_info anchor="right" id="Database" order="12" weight="0.32977098" />
+      <window_info anchor="right" id="Database" order="12" weight="0.3290469" />
       <window_info anchor="right" id="Maven" order="13" weight="0.32980332" />
     </layout>
     <layout-to-restore>
@@ -512,7 +576,34 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <MESSAGE value="基础练习代码第一次提交" />
     <option name="LAST_COMMIT_MESSAGE" value="基础练习代码第一次提交" />
   </component>
@@ -539,49 +630,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/learn/lesson03/MyArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_40/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1391">
-          <caret line="146" column="35" selection-start-line="146" selection-start-column="35" selection-end-line="146" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_40/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1001">
-          <caret line="86" column="27" lean-forward="true" selection-start-line="86" selection-start-column="27" selection-end-line="86" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_40/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2000">
-          <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/learn/day05/MyGenericity.class" />
-    <entry file="jar://D:/java/jdk1.8.0_40/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1625">
-          <caret line="88" column="13" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk11/jdk-11.0.3/lib/src.zip!/java.base/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/jdk11/jdk-11.0.3/lib/src.zip!/java.base/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2600">
@@ -705,25 +753,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://6384c4e7-3031-4f13-8c70-5c5db476ebbb/schema/mybatis/table/class">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate POJOs.groovy" />
     <entry file="file://$PROJECT_DIR$/src/com/learn/thread/MyRunnableImp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/learn/inner/StaticInner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -874,6 +908,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="82">
           <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6384c4e7-3031-4f13-8c70-5c5db476ebbb/schema/mybatis/table/class">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="0b3f918b-b7e7-4f01-ad88-4355184133dc">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dataSources/6384c4e7-3031-4f13-8c70-5c5db476ebbb.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="197" column="26" lean-forward="true" selection-start-line="197" selection-start-column="26" selection-end-line="197" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/learn/inner/PartInner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/learn/inner/StaticInner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" selection-start-line="19" selection-end-line="20" />
         </state>
       </provider>
     </entry>
