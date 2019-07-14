@@ -1,78 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68dd748e-a58c-437b-841f-39fd81a22651" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6384c4e7-3031-4f13-8c70-5c5db476ebbb.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6384c4e7-3031-4f13-8c70-5c5db476ebbb/storage_v2/_src_/schema/mybatis.03UUWg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6384c4e7-3031-4f13-8c70-5c5db476ebbb/storage_v2/_src_/schema/mybatis.03UUWg.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/AbInter/MyAbstract.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/AbInter/MyInter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/AbInter/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/annotation/DemoAnno.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/collection/ArraysTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/day05/MyGenericity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/day05/TestAbstract.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/day05/TestInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/inner/MemberInner$demo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/inner/MemberInner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/inner/PartInner$1Inner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/inner/PartInner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/inner/StaticInner$Inner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/inner/StaticInner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/keyword/FinalExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/lesson01/MyArrayList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/lesson01/Review.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/lesson02/MyLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/lesson02/MyLinkedList2$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/lesson02/MyLinkedList2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/lesson02/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/lesson02/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/lesson03/MyArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/mstake/ThreeSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/mysql/Demo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/mysql/sql说明.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/reflection/Entity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/reflection/ObjectExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/thread/MyRunnableImp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/thread/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/thread/RunnableImp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/learn/thread/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/AbInter/MyAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/AbInter/MyInter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/annotation/DemoAnno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/collection/ArraysTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/inner/MemberInner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/inner/PartInner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/inner/StaticInner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/keyword/FinalExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/lesson01/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/lesson01/Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/lesson02/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/lesson02/MyLinkedList2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/lesson02/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/lesson02/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/lesson03/MyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/mstake/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/mysql/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/mysql/sql说明.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/reflection/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/reflection/ObjectExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/thread/MyRunnableImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/thread/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/thread/RunnableImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/learn/thread/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jdbc.properties" afterDir="false" />
-    </list>
+    <list default="true" id="68dd748e-a58c-437b-841f-39fd81a22651" name="Default" comment="基础练习代码第一次提交" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,36 +57,7 @@
     <favorites_list name="basic" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/learn/reflection/ObjectExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-375">
-              <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#demo7#0;class#ObjectExample#0" />
-                <element signature="method#demo6#0;class#ObjectExample#0" />
-                <element signature="method#demo5#0;class#ObjectExample#0" />
-                <element signature="method#demo4#0;class#ObjectExample#0" />
-                <element signature="method#demo3#0;class#ObjectExample#0" />
-                <element signature="method#demo1#0;class#ObjectExample#0" />
-                <element signature="method#demo2#0;class#ObjectExample#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/learn/reflection/Entity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -502,8 +402,16 @@
       <workItem from="1562896538452" duration="2030000" />
       <workItem from="1562977305351" duration="4756000" />
       <workItem from="1562993198346" duration="15863000" />
-      <workItem from="1563072366136" duration="2912000" />
+      <workItem from="1563072366136" duration="3445000" />
     </task>
+    <task id="LOCAL-00001" summary="基础练习代码第一次提交">
+      <created>1563100010828</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563100010828</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -518,7 +426,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158248000" />
+    <option name="totallyTimeSpent" value="158781000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -603,6 +511,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="基础练习代码第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="基础练习代码第一次提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -960,8 +872,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/learn/reflection/Entity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="82">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
