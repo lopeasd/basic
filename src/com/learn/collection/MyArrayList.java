@@ -1,4 +1,4 @@
-package com.learn.lesson01;
+package com.learn.collection;
 
 /**
  * @Author: shixiaofei

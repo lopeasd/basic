@@ -13,11 +13,15 @@ import java.lang.reflect.InvocationTargetException;
  * 6.序列化
  */
 public class ObjectExample {
+    public static void main(String[] args) {
+        demo7();
+        Integer i;
+    }
 
     //序列化
     private static void demo7() {
         Entity entity = new Entity();
-        entity.name="xuliehua";
+        entity.name = "xuliehua";
         try (ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("D:/test.class"))) {
             oos.writeObject(entity);
         } catch (FileNotFoundException e) {
