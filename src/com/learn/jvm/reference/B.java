@@ -1,7 +1,7 @@
-package com.learn.jvm;
+package com.learn.jvm.reference;
 
 //测试字符串常量去的位置
-public class A {
+public class B {
     static String a = "hello";
     static String b = "你好";
     String c = "hello";

@@ -1,4 +1,4 @@
-package com.learn.jvm;
+package com.learn.jvm.reference;
 
 //String Pool是JVM实例全局共享的，全局只有一个。
 public class TestAandB {

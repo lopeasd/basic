@@ -1,4 +1,4 @@
-package com.learn.jvm;
+package com.learn.jvm.reference;
 
 import java.util.ArrayList;
 import java.util.List;

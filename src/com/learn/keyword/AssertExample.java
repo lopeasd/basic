@@ -1,15 +1,11 @@
 package com.learn.keyword;
 
-public class FinalExample {
-
-    public static int test() {
-        try {
-            throw new IllegalAccessException("exception.....");
-        } catch (IllegalAccessException e) {
-            e.printStackTrace();
-        }
-        return 1;
-    }
+/**
+ * 测试assert关键字
+ * 打开断言:-ea
+ * 关闭断言:-da,或者删除-ea
+ */
+public class AssertExample {
 
     public static void main(String[] args) {
         //断言1结果为true，则继续往下执行
